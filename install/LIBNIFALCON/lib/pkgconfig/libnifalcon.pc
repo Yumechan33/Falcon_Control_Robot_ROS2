@@ -1,0 +1,9 @@
+libdir=/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/LIBNIFALCON/lib
+includedir=/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/LIBNIFALCON/include
+
+Name: libnifalcon
+Description: libnifalcon: Open Source Driver for the Novint Falcon Haptic Controller
+Requires: libusb-1.0 
+Version: 1.0.2
+Libs: -L${libdir} -llibnifalcon  -lnifalcon_comm_libusb 
+Cflags: -I${includedir} 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libnifalcon_cli_base.a  CMakeFiles/nifalcon_cli_base_STATIC.dir/FalconCLIBase.cpp.o
+/usr/bin/ranlib ../../lib/libnifalcon_cli_base.a

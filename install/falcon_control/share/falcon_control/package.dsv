@@ -1,0 +1,11 @@
+source;share/falcon_control/hook/cmake_prefix_path.ps1
+source;share/falcon_control/hook/cmake_prefix_path.dsv
+source;share/falcon_control/hook/cmake_prefix_path.sh
+source;share/falcon_control/hook/pythonpath.ps1
+source;share/falcon_control/hook/pythonpath.dsv
+source;share/falcon_control/hook/pythonpath.sh
+source;share/falcon_control/local_setup.bash
+source;share/falcon_control/local_setup.dsv
+source;share/falcon_control/local_setup.ps1
+source;share/falcon_control/local_setup.sh
+source;share/falcon_control/local_setup.zsh

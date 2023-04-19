@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/megarover_samples_ros2/pub_odom" "TARGETS" "pub_odom" "DESTINATION" "lib/megarover_samples_ros2")

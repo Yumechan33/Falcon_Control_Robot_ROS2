@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/falcon_interfaces/libfalcon_interfaces__rosidl_typesupport_fastrtps_c.so" "TARGETS" "falcon_interfaces__rosidl_typesupport_fastrtps_c" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

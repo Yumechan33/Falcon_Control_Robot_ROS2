@@ -1,0 +1,91 @@
+[0.042s] Invoking command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/megarover_samples_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/src/megarover_samples_ros2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2
+[0.054s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.073s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.223s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.229s] -- Found gazebo_ros_pkgs: 3.5.3 (/opt/ros/foxy/share/gazebo_ros_pkgs/cmake)
+[0.231s] -- Found sensor_msgs: 2.0.5 (/opt/ros/foxy/share/sensor_msgs/cmake)
+[0.260s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.268s] -- Found rosidl_adapter: 1.3.0 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[0.326s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[0.347s] -- Found FastRTPS: /opt/ros/foxy/include  
+[0.412s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.557s] -- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.626s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.630s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.630s] -- Configured cppcheck include dirs: 
+[0.630s] -- Configured cppcheck exclude dirs and/or files: 
+[0.633s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.633s] -- Configured cpplint exclude dirs and/or files: 
+[0.634s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.635s] -- Added test 'lint_cmake' to check CMake code style
+[0.636s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[0.639s] -- Added test 'uncrustify' to check C / C++ code style
+[0.639s] -- Configured uncrustify additional arguments: 
+[0.640s] -- Added test 'xmllint' to check XML markup files
+[0.642s] -- Configuring done
+[0.645s] -- Generating done
+[0.646s] -- Build files have been written to: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/megarover_samples_ros2
+[0.650s] Invoked command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/megarover_samples_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/src/megarover_samples_ros2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2
+[0.653s] Invoking command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/megarover_samples_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/megarover_samples_ros2 -- -j12 -l12
+[0.684s] [35m[1mScanning dependencies of target pub_odom[0m
+[0.692s] [ 50%] [32mBuilding CXX object CMakeFiles/pub_odom.dir/src/pub_odom.cpp.o[0m
+[0.714s] [100%] [32m[1mLinking CXX executable pub_odom[0m
+[0.749s] [100%] Built target pub_odom
+[0.758s] Invoked command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/megarover_samples_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/megarover_samples_ros2 -- -j12 -l12
+[0.781s] Invoking command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/megarover_samples_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/megarover_samples_ros2
+[0.788s] -- Install configuration: ""
+[0.788s] -- Execute custom install script
+[0.789s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/lib/megarover_samples_ros2/pub_odom
+[0.796s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/config/mapper_params_online_sync.yaml
+[0.804s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/config/navigation_param.yaml
+[0.811s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/launch/robot_state_publisher.launch.py
+[0.818s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/launch/vmegarover_mapping.launch.py
+[0.825s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/launch/vmegarover_navigation.launch.py
+[0.832s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/launch/vmegarover_save_map.launch.py
+[0.839s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/launch/vmegarover_with_empty_world.launch.py
+[0.846s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/launch/vmegarover_with_sample_world.launch.py
+[0.852s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/maps/vmegarover_samplemap.pgm
+[0.858s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/maps/vmegarover_samplemap.yaml
+[0.864s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/models/vmegarover/meshes/dae/lrf.dae
+[0.871s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/models/vmegarover/meshes/dae/main_body.dae
+[0.877s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/models/vmegarover/meshes/dae/megarover.dae
+[0.883s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/models/vmegarover/meshes/dae/r5.png
+[0.889s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/models/vmegarover/meshes/dae/r5_lrf.png
+[0.895s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/models/vmegarover/meshes/dae/vmega_body.dae
+[0.901s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/models/vmegarover/meshes/dae/vmega_wheel.dae
+[0.908s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/models/vmegarover/meshes/stl/lrf.stl
+[0.914s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/models/vmegarover/meshes/stl/megarover.stl
+[0.920s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/models/vmegarover/meshes/stl/vmega_body.stl
+[0.926s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/models/vmegarover/meshes/stl/vmega_wheel.stl
+[0.932s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/models/vmegarover/vmegarover.sdf
+[0.938s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/robots/megarover.urdf
+[0.944s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/robots/megarover.urdf.xacro
+[0.950s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/robots/vmegarover.urdf.xacro
+[0.956s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/rviz/mapping.rviz
+[0.962s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/rviz/navigation.rviz
+[0.968s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/urdf/body/body.gazebo.xacro
+[0.975s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/urdf/body/body.urdf.xacro
+[0.981s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/urdf/body/vbody.urdf.xacro
+[0.986s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/urdf/common.xacro
+[0.992s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/urdf/lrf/lrf.gazebo.xacro
+[0.998s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/urdf/lrf/lrf.urdf.xacro
+[1.004s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/urdf/wheel/vwheel.urdf.xacro
+[1.009s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/urdf/wheel/wheel.gazebo.xacro
+[1.015s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/urdf/wheel/wheel.transmission.xacro
+[1.021s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/worlds/vmegarover_sample.world
+[1.028s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/ament_index/resource_index/package_run_dependencies/megarover_samples_ros2
+[1.034s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/ament_index/resource_index/parent_prefix_path/megarover_samples_ros2
+[1.043s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/environment/ament_prefix_path.sh
+[1.051s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/environment/ament_prefix_path.dsv
+[1.058s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/environment/path.sh
+[1.064s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/environment/path.dsv
+[1.072s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/local_setup.bash
+[1.079s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/local_setup.sh
+[1.086s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/local_setup.zsh
+[1.093s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/local_setup.dsv
+[1.101s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/package.dsv
+[1.108s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/ament_index/resource_index/packages/megarover_samples_ros2
+[1.114s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/cmake/megarover_samples_ros2Config.cmake
+[1.120s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/cmake/megarover_samples_ros2Config-version.cmake
+[1.127s] -- Symlinking: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/megarover_samples_ros2/share/megarover_samples_ros2/package.xml
+[1.140s] Invoked command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/megarover_samples_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/megarover_samples_ros2

@@ -1,0 +1,9 @@
+source;share/LIBNIFALCON/hook/ld_library_path_lib.ps1
+source;share/LIBNIFALCON/hook/ld_library_path_lib.dsv
+source;share/LIBNIFALCON/hook/ld_library_path_lib.sh
+source;share/LIBNIFALCON/hook/path.ps1
+source;share/LIBNIFALCON/hook/path.dsv
+source;share/LIBNIFALCON/hook/path.sh
+source;share/LIBNIFALCON/hook/pythonscriptspath.ps1
+source;share/LIBNIFALCON/hook/pythonscriptspath.dsv
+source;share/LIBNIFALCON/hook/pythonscriptspath.sh

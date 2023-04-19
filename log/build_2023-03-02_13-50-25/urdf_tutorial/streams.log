@@ -1,0 +1,68 @@
+[0.020s] Invoking command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/urdf_tutorial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/src/urdf_tutorial-ros2 -DCMAKE_INSTALL_PREFIX=/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial
+[0.083s] -- The C compiler identification is GNU 9.4.0
+[0.126s] -- The CXX compiler identification is GNU 9.4.0
+[0.130s] -- Check for working C compiler: /usr/bin/cc
+[0.177s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.177s] -- Detecting C compiler ABI info
+[0.226s] -- Detecting C compiler ABI info - done
+[0.236s] -- Detecting C compile features
+[0.236s] -- Detecting C compile features - done
+[0.238s] -- Check for working CXX compiler: /usr/bin/c++
+[0.289s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.290s] -- Detecting CXX compiler ABI info
+[0.341s] -- Detecting CXX compiler ABI info - done
+[0.349s] -- Detecting CXX compile features
+[0.349s] -- Detecting CXX compile features - done
+[0.355s] -- Found ament_cmake: 0.9.11 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.377s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.377s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.541s] -- Found ament_lint_auto: 0.9.7 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[0.585s] -- Configuring done
+[0.587s] -- Generating done
+[0.587s] -- Build files have been written to: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/urdf_tutorial
+[0.589s] Invoked command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/src/urdf_tutorial-ros2 -DCMAKE_INSTALL_PREFIX=/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial
+[0.591s] Invoking command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/urdf_tutorial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/urdf_tutorial -- -j12 -l12
+[0.616s] Invoked command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/urdf_tutorial -- -j12 -l12
+[0.637s] Invoking command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/urdf_tutorial': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/urdf_tutorial
+[0.644s] -- Install configuration: ""
+[0.644s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/images
+[0.644s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/images/origins.png
+[0.644s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/images/flexible.png
+[0.644s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/images/multipleshapes.png
+[0.644s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/images/myfirst.png
+[0.644s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/images/visual.png
+[0.644s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/images/materials.png
+[0.644s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/launch
+[0.645s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/launch/display.launch.py
+[0.645s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/meshes
+[0.645s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger_tip.dae
+[0.645s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger.dae
+[0.645s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger_tip_color.png
+[0.645s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/meshes/l_finger_color.png
+[0.645s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/rviz
+[0.645s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/rviz/urdf.rviz
+[0.645s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/urdf
+[0.645s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/urdf/08-macroed.urdf.xacro
+[0.645s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/urdf/06-flexible.urdf
+[0.645s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/urdf/02-multipleshapes.urdf
+[0.645s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/urdf/01-myfirst.urdf
+[0.645s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/urdf/05-visual.urdf
+[0.646s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/urdf/07-physics.urdf
+[0.646s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/urdf/03-origins.urdf
+[0.646s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/urdf/04-materials.urdf
+[0.646s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/ament_index/resource_index/package_run_dependencies/urdf_tutorial
+[0.646s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/ament_index/resource_index/parent_prefix_path/urdf_tutorial
+[0.646s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.sh
+[0.646s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/environment/ament_prefix_path.dsv
+[0.646s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/environment/path.sh
+[0.646s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/environment/path.dsv
+[0.646s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/local_setup.bash
+[0.646s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/local_setup.sh
+[0.646s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/local_setup.zsh
+[0.646s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/local_setup.dsv
+[0.646s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/package.dsv
+[0.647s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/ament_index/resource_index/packages/urdf_tutorial
+[0.647s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig.cmake
+[0.647s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/cmake/urdf_tutorialConfig-version.cmake
+[0.647s] -- Installing: /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/install/urdf_tutorial/share/urdf_tutorial/package.xml
+[0.648s] Invoked command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/urdf_tutorial' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/urdf_tutorial

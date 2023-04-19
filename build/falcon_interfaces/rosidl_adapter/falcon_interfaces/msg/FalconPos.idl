@@ -1,0 +1,16 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from falcon_interfaces/msg/FalconPos.msg
+// generated code does not contain a copyright notice
+
+
+module falcon_interfaces {
+  module msg {
+    struct FalconPos {
+      double x;
+
+      double y;
+
+      double z;
+    };
+  };
+};

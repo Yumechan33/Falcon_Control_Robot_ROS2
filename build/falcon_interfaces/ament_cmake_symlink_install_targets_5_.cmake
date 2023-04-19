@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/falcon_interfaces/rosidl_generator_py/falcon_interfaces/libfalcon_interfaces__python.so" "TARGETS" "falcon_interfaces__python" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

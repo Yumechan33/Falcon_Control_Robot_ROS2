@@ -1,0 +1,4 @@
+Invoking command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/LIBNIFALCON': /usr/bin/cmake --build /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/LIBNIFALCON -- -j12 -l12
+Invoked command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/LIBNIFALCON' returned '0': /usr/bin/cmake --build /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/LIBNIFALCON -- -j12 -l12
+Invoking command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/LIBNIFALCON': /usr/bin/cmake --install /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/LIBNIFALCON
+Invoked command in '/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/LIBNIFALCON' returned '0': /usr/bin/cmake --install /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/LIBNIFALCON

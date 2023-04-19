@@ -1,0 +1,31 @@
+-- Generating /home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/build/LIBNIFALCON/libnifalcon.pc
+[01m[K/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/src/libnifalcon/src/comm/FalconCommLibUSB.cpp:[m[K In member function ‘[01m[Kbool libnifalcon::FalconCommLibUSB::initLibUSB()[m[K’:
+[01m[K/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/src/libnifalcon/src/comm/FalconCommLibUSB.cpp:108:35:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid libusb_set_debug(libusb_context*, int)[m[K’ is deprecated: Use libusb_set_option instead [[01;35m[K-Wdeprecated-declarations[m[K]
+  108 |   libusb_set_debug(m_usbContext, 0[01;35m[K)[m[K;
+      |                                   [01;35m[K^[m[K
+In file included from [01m[K/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/src/libnifalcon/src/comm/FalconCommLibUSB.cpp:16[m[K:
+[01m[K/usr/include/libusb-1.0/libusb.h:1325:18:[m[K [01;36m[Knote: [m[Kdeclared here
+ 1325 | void LIBUSB_CALL [01;36m[Klibusb_set_debug[m[K(libusb_context *ctx, int level);
+      |                  [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/src/libnifalcon/src/comm/FalconCommLibUSB.cpp:108:35:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid libusb_set_debug(libusb_context*, int)[m[K’ is deprecated: Use libusb_set_option instead [[01;35m[K-Wdeprecated-declarations[m[K]
+  108 |   libusb_set_debug(m_usbContext, 0[01;35m[K)[m[K;
+      |                                   [01;35m[K^[m[K
+In file included from [01m[K/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/src/libnifalcon/src/comm/FalconCommLibUSB.cpp:16[m[K:
+[01m[K/usr/include/libusb-1.0/libusb.h:1325:18:[m[K [01;36m[Knote: [m[Kdeclared here
+ 1325 | void LIBUSB_CALL [01;36m[Klibusb_set_debug[m[K(libusb_context *ctx, int level);
+      |                  [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/src/libnifalcon/src/comm/FalconCommLibUSB.cpp:[m[K In member function ‘[01m[Kbool libnifalcon::FalconCommLibUSB::initLibUSB()[m[K’:
+[01m[K/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/src/libnifalcon/src/comm/FalconCommLibUSB.cpp:108:35:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid libusb_set_debug(libusb_context*, int)[m[K’ is deprecated: Use libusb_set_option instead [[01;35m[K-Wdeprecated-declarations[m[K]
+  108 |   libusb_set_debug(m_usbContext, 0[01;35m[K)[m[K;
+      |                                   [01;35m[K^[m[K
+In file included from [01m[K/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/src/libnifalcon/src/comm/FalconCommLibUSB.cpp:16[m[K:
+[01m[K/usr/include/libusb-1.0/libusb.h:1325:18:[m[K [01;36m[Knote: [m[Kdeclared here
+ 1325 | void LIBUSB_CALL [01;36m[Klibusb_set_debug[m[K(libusb_context *ctx, int level);
+      |                  [01;36m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/src/libnifalcon/src/comm/FalconCommLibUSB.cpp:108:35:[m[K [01;35m[Kwarning: [m[K‘[01m[Kvoid libusb_set_debug(libusb_context*, int)[m[K’ is deprecated: Use libusb_set_option instead [[01;35m[K-Wdeprecated-declarations[m[K]
+  108 |   libusb_set_debug(m_usbContext, 0[01;35m[K)[m[K;
+      |                                   [01;35m[K^[m[K
+In file included from [01m[K/home/ayumayume/ROS2_Y3_2/mobile_robot_inclass/src/libnifalcon/src/comm/FalconCommLibUSB.cpp:16[m[K:
+[01m[K/usr/include/libusb-1.0/libusb.h:1325:18:[m[K [01;36m[Knote: [m[Kdeclared here
+ 1325 | void LIBUSB_CALL [01;36m[Klibusb_set_debug[m[K(libusb_context *ctx, int level);
+      |                  [01;36m[K^~~~~~~~~~~~~~~~[m[K

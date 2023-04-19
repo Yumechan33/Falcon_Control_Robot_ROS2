@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libnifalcon_device_thread.a  CMakeFiles/nifalcon_device_thread_STATIC.dir/FalconDeviceThread.cpp.o
+/usr/bin/ranlib ../../lib/libnifalcon_device_thread.a

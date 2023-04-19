@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libnifalcon.a  CMakeFiles/nifalcon_STATIC.dir/core/FalconDevice.cpp.o CMakeFiles/nifalcon_STATIC.dir/core/FalconFirmware.cpp.o CMakeFiles/nifalcon_STATIC.dir/firmware/FalconFirmwareNovintSDK.cpp.o CMakeFiles/nifalcon_STATIC.dir/kinematic/FalconKinematicStamper.cpp.o CMakeFiles/nifalcon_STATIC.dir/cpp-optparse/OptionParser.cpp.o CMakeFiles/nifalcon_STATIC.dir/comm/FalconCommLibUSB.cpp.o
+/usr/bin/ranlib ../lib/libnifalcon.a
